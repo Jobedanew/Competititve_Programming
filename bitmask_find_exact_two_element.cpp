@@ -6,6 +6,8 @@ using namespace std;
 #define pf push_front
 #define optimize() ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 
+// bitmask example to find extact two unique element
+
 int main()
 {
     optimize();
